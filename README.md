@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<image src="https://avatars.github.com/u/170740237?s=200&v=4" height="64"/>
+<image src="https://raw.githubusercontent.com/ClassIsland/ClassIsland/refs/heads/master/ClassIsland/Assets/AppLogo.png" height="64"/>
 
 # ClassIsland Hub
 
