@@ -60,6 +60,13 @@
                     <sub><b>HelloWRC</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/LHGS-github">
+                    <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
+                    <br />
+                    <sub><b>LHGS-github</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
