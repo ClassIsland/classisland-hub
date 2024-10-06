@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<image src="https://avatars.github.com/u/170740237?s=200&v=4" height="64"/>
+<image src="http://m.qpic.cn/psc?/V51UyG6T2hLdbN0oEgHl3fEkH73KqJt7/TmEUgtj9EK6.7V8ajmQrEEsEylM*52lTktZHLze*PTbMCd2wg4o5kkEyKNVsVL9UM5xK4GLClF.TOL*ty*FnqAuxBQmobbAoJ.gYMo62EQY!/mnull&bo=wADAAAAAAAADByI!&rf=photolist&t=5" height="64"/>
 
 # ClassIsland Hub
 
