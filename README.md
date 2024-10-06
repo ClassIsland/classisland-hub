@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<image src="https://avatars.githubusercontent.com/u/170740237?s=200&v=4" height="64"/>
+<image src="https://avatars.github.com/u/170740237?s=200&v=4" height="64"/>
 
 # ClassIsland Hub
 
@@ -16,7 +16,7 @@
 </div>
 
 > [!Important]
->禁止投稿涉黄、涉赌、涉毒、恐怖暴力等违法违规内容，禁止投稿涉政- 等敏感内容。
+>禁止投稿涉黄、涉赌、涉毒、恐怖暴力等违法违规内容，禁止投稿涉政等敏感内容。
 
 ## 如何投稿？
 
