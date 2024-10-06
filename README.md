@@ -29,4 +29,38 @@
 感谢以下成员对 ClassIsland Hub 提供的贡献：
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/undefftr">
+                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="undefftr"/>
+                    <br />
+                    <sub><b>unDefinedFuture</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/SDFAWTFGE">
+                    <img src="https://avatars.githubusercontent.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
+                    <br />
+                    <sub><b>SkyEx（username乱打的</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/jiangyin14">
+                    <img src="https://avatars.githubusercontent.com/u/106649516?v=4" width="100;" alt="jiangyin14"/>
+                    <br />
+                    <sub><b>姜胤</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/HelloWRC">
+                    <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
+                    <br />
+                    <sub><b>HelloWRC</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
