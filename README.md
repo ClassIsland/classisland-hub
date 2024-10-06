@@ -7,7 +7,7 @@
 
 # ClassIsland Hub
 
-本仓库用于存储 ClassIsland 交流群或频道内的逆天记录。
+展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
 
 #### [💬 点我进入 Classlsland 官方频道](https://pd.qq.com/s/grr6qwqwj)
 
