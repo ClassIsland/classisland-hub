@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<image src="https://avatars.githubusercontent.com/u/170740237?s=200&v=4" height="64"/>
+<image src="https://avatars.github.com/u/170740237?s=200&v=4" height="64"/>
 
 # ClassIsland Hub
 
@@ -16,7 +16,7 @@
 </div>
 
 > [!Important]
->禁止投稿涉黄、涉赌、涉毒、恐怖暴力等违法违规内容，禁止投稿涉政- 等敏感内容。
+>禁止投稿涉黄、涉赌、涉毒、恐怖暴力等违法违规内容，禁止投稿涉政等敏感内容。
 
 ## 如何投稿？
 
@@ -34,28 +34,28 @@
 		<tr>
             <td align="center">
                 <a href="https://github.com/undefftr">
-                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="undefftr"/>
+                    <img src="https://avatars.github.com/u/83688818?v=4" width="100;" alt="undefftr"/>
                     <br />
                     <sub><b>unDefinedFuture</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/jiangyin14">
-                    <img src="https://avatars.githubusercontent.com/u/106649516?v=4" width="100;" alt="jiangyin14"/>
+                    <img src="https://avatars.github.com/u/106649516?v=4" width="100;" alt="jiangyin14"/>
                     <br />
                     <sub><b>姜胤</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/SDFAWTFGE">
-                    <img src="https://avatars.githubusercontent.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
+                    <img src="https://avatars.github.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
                     <br />
                     <sub><b>SkyEx（username乱打的</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/HelloWRC">
-                    <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
+                    <img src="https://avatars.github.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
                     <br />
                     <sub><b>HelloWRC</b></sub>
                 </a>
