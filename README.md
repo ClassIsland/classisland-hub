@@ -9,9 +9,9 @@
 
 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
 
-#### [💬 点我进入 Classlsland 官方频道](https://pd.qq.com/s/grr6qwqwj)
+#### 💬[Classlsland QQ 频道](https://pd.qq.com/s/grr6qwqwj) | [Classlsland QQ 群组](https://qm.qq.com/q/4NsDQKiAuQ)
 
-#### [🌐 ClassIsland 官方网站](https://classisland.tech/)｜[📚 ClassIsland 官方文档](https://docs.classisland.tech)｜[🗳 Classlsland 功能投票](https://github.com/ClassIsland/voting/discussions?discussions_q=is%3Aopen+sort%3Atop)
+#### [🌐 官方网站](https://classisland.tech/)｜[📚 项目文档](https://docs.classisland.tech)｜[🗳 功能投票](https://github.com/ClassIsland/voting/discussions?discussions_q=is%3Aopen+sort%3Atop)
 
 </div>
 
