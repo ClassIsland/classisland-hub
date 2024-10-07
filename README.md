@@ -9,9 +9,9 @@
 
 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
 
-#### [💬 点我进入 Classlsland 官方频道](https://pd.qq.com/s/grr6qwqwj)
+#### 💬[Classlsland QQ 频道](https://pd.qq.com/s/grr6qwqwj) | [Classlsland QQ 群组](https://qm.qq.com/q/4NsDQKiAuQ)
 
-#### [🌐 ClassIsland 官方网站](https://classisland.tech/)｜[📚 ClassIsland 官方文档](https://docs.classisland.tech)｜[🗳 Classlsland 功能投票](https://github.com/ClassIsland/voting/discussions?discussions_q=is%3Aopen+sort%3Atop)
+#### [🌐 官方网站](https://classisland.tech/)｜[📚 项目文档](https://docs.classisland.tech)｜[🗳 功能投票](https://github.com/ClassIsland/voting/discussions?discussions_q=is%3Aopen+sort%3Atop)
 
 </div>
 
@@ -34,42 +34,42 @@
 		<tr>
             <td align="center">
                 <a href="https://github.com/undefftr">
-                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="undefftr"/>
+                    <img src="https://avatars.github.com/u/83688818?v=4" width="100;" alt="undefftr"/>
                     <br />
                     <sub><b>unDefinedFuture</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/jiangyin14">
-                    <img src="https://avatars.githubusercontent.com/u/106649516?v=4" width="100;" alt="jiangyin14"/>
+                    <img src="https://avatars.github.com/u/106649516?v=4" width="100;" alt="jiangyin14"/>
                     <br />
                     <sub><b>姜胤</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/hello8693DSZ">
-                    <img src="https://avatars.githubusercontent.com/u/88492699?v=4" width="100;" alt="hello8693DSZ"/>
+                    <img src="https://avatars.github.com/u/88492699?v=4" width="100;" alt="hello8693DSZ"/>
                     <br />
                     <sub><b>Hello8693</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/SDFAWTFGE">
-                    <img src="https://avatars.githubusercontent.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
+                    <img src="https://avatars.github.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
                     <br />
                     <sub><b>SkyEx（username乱打的</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/HelloWRC">
-                    <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
+                    <img src="https://avatars.github.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
                     <br />
                     <sub><b>HelloWRC</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/LHGS-github">
-                    <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
+                    <img src="https://avatars.github.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
                     <br />
                     <sub><b>LHGS-github</b></sub>
                 </a>
