@@ -9,6 +9,8 @@
 
 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
 
+### [🌐 ClassIsland Hub网页](https://classisland.tech/)
+
 #### 💬[Classlsland QQ 频道](https://pd.qq.com/s/grr6qwqwj) | [Classlsland QQ 群组](https://qm.qq.com/q/4NsDQKiAuQ)
 
 #### [🌐 官方网站](https://classisland.tech/)｜[📚 项目文档](https://docs.classisland.tech)｜[🗳 功能投票](https://github.com/ClassIsland/voting/discussions?discussions_q=is%3Aopen+sort%3Atop)
