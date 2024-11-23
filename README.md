@@ -1,4 +1,4 @@
-[<!-- # ClassIsland-Hub
+<!-- # ClassIsland-Hub
 ###### 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿 -->
 
 <div align="center">
