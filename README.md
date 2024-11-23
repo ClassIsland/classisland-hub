@@ -84,6 +84,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/3234374354">
+                    <img src="https://avatars.githubusercontent.com/u/112679489?v=4" width="100;" alt="3234374354"/>
+                    <br />
+                    <sub><b>hexianglong</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/DryIce-cc">
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
                     <br />
