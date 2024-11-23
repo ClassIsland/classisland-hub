@@ -9,7 +9,7 @@
 
 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
 
-### [🌐 ClassIsland Hub网页](https://classisland.tech/)
+### [🌐 ClassIsland Hub 网页]([https://classisland.tech/](https://hub.classisland.tech/))
 
 #### 💬[Classlsland QQ 频道](https://pd.qq.com/s/grr6qwqwj) | [Classlsland QQ 群组](https://qm.qq.com/q/4NsDQKiAuQ)
 
