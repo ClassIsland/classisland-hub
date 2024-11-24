@@ -9,7 +9,7 @@
 
 展示亿些 ClassIsland 交流群/频道里面的乐子。欢迎群友前来投稿。
 
-### [🌐 ClassIsland Hub 网页]([https://classisland.tech/](https://hub.classisland.tech/))
+### [🌐 ClassIsland Hub 网页](https://hub.classisland.tech/)
 
 #### 💬[Classlsland QQ 频道](https://pd.qq.com/s/grr6qwqwj) | [Classlsland QQ 群组](https://qm.qq.com/q/4NsDQKiAuQ)
 
@@ -108,3 +108,4 @@
 
 
 >幽默的类是陆地🏝️船坞捡拾官方OICQ小组成员的搞笑片段😆并提交到吉特船坞，使大家满足😌
+](https://hub.classisland.tech/)
