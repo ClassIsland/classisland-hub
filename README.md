@@ -42,10 +42,10 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/undefftr">
-                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="undefftr"/>
+                <a href="https://github.com/unDefFtr">
+                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="unDefFtr"/>
                     <br />
-                    <sub><b>unDefinedFuture</b></sub>
+                    <sub><b>unDefFtr</b></sub>
                 </a>
             </td>
             <td align="center">
