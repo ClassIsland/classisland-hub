@@ -107,6 +107,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Xwei1645">
+                    <img src="https://avatars.githubusercontent.com/u/68677053?v=4" width="100;" alt="Xwei1645"/>
+                    <br />
+                    <sub><b>Wei Wu</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/DryIce-cc">
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
                     <br />
