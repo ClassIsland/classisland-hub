@@ -56,6 +56,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Xwei1645">
+                    <img src="https://avatars.githubusercontent.com/u/68677053?v=4" width="100;" alt="Xwei1645"/>
+                    <br />
+                    <sub><b>Wei Wu</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/SDFAWTFGE">
                     <img src="https://avatars.githubusercontent.com/u/116573936?v=4" width="100;" alt="SDFAWTFGE"/>
                     <br />
@@ -69,6 +76,8 @@
                     <sub><b>hexianglong</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/HelloWRC">
                     <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
@@ -76,8 +85,6 @@
                     <sub><b>HelloWRC</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/xiaowuap">
                     <img src="https://avatars.githubusercontent.com/u/44547885?v=4" width="100;" alt="xiaowuap"/>
@@ -104,13 +111,6 @@
                     <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
                     <br />
                     <sub><b>LHGS-github</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Xwei1645">
-                    <img src="https://avatars.githubusercontent.com/u/68677053?v=4" width="100;" alt="Xwei1645"/>
-                    <br />
-                    <sub><b>Wei Wu</b></sub>
                 </a>
             </td>
             <td align="center">
