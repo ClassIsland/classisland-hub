@@ -93,6 +93,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/littlekan233">
+                    <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
+                    <br />
+                    <sub><b>小阚LittleKan</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/LHGS-github">
                     <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
                     <br />
@@ -113,6 +120,8 @@
                     <sub><b>流焰xwx</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/DryIce-cc">
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
