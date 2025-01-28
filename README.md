@@ -123,6 +123,13 @@
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/quiet-star-gazing">
+                    <img src="https://avatars.githubusercontent.com/u/109467643?v=4" width="100;" alt="quiet-star-gazing"/>
+                    <br />
+                    <sub><b>quiet-star-gazing</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/DryIce-cc">
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
                     <br />
