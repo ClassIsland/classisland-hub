@@ -123,13 +123,6 @@
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/LyRin-owo">
-                    <img src="https://avatars.githubusercontent.com/u/141834038?v=4" width="100;" alt="LyRin-owo"/>
-                    <br />
-                    <sub><b>lyrin://2025</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/quiet-star-gazing">
                     <img src="https://avatars.githubusercontent.com/u/109467643?v=4" width="100;" alt="quiet-star-gazing"/>
                     <br />
