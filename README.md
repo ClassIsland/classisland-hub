@@ -86,6 +86,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/littlekan233">
+                    <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
+                    <br />
+                    <sub><b>小阚LittleKan</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/xiaowuap">
                     <img src="https://avatars.githubusercontent.com/u/44547885?v=4" width="100;" alt="xiaowuap"/>
                     <br />
@@ -97,13 +104,6 @@
                     <img src="https://avatars.githubusercontent.com/u/117577244?v=4" width="100;" alt="wangjinyi425"/>
                     <br />
                     <sub><b>Jerry233</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/littlekan233">
-                    <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
-                    <br />
-                    <sub><b>小阚LittleKan</b></sub>
                 </a>
             </td>
             <td align="center">
