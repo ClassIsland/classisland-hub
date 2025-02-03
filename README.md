@@ -79,6 +79,13 @@
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/xiaowuap">
+                    <img src="https://avatars.githubusercontent.com/u/44547885?v=4" width="100;" alt="xiaowuap"/>
+                    <br />
+                    <sub><b>Enzo Wu</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/HelloWRC">
                     <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
                     <br />
@@ -90,13 +97,6 @@
                     <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
                     <br />
                     <sub><b>小阚LittleKan</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/xiaowuap">
-                    <img src="https://avatars.githubusercontent.com/u/44547885?v=4" width="100;" alt="xiaowuap"/>
-                    <br />
-                    <sub><b>Enzo Wu</b></sub>
                 </a>
             </td>
             <td align="center">
