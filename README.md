@@ -70,10 +70,10 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/HelloWRC">
-                    <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
+                <a href="https://github.com/xiaowuap">
+                    <img src="https://avatars.githubusercontent.com/u/44547885?v=4" width="100;" alt="xiaowuap"/>
                     <br />
-                    <sub><b>HelloWRC</b></sub>
+                    <sub><b>Enzo Wu</b></sub>
                 </a>
             </td>
 		</tr>
@@ -86,10 +86,10 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/xiaowuap">
-                    <img src="https://avatars.githubusercontent.com/u/44547885?v=4" width="100;" alt="xiaowuap"/>
+                <a href="https://github.com/HelloWRC">
+                    <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
                     <br />
-                    <sub><b>Enzo Wu</b></sub>
+                    <sub><b>HelloWRC</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -134,6 +134,13 @@
                     <img src="https://avatars.githubusercontent.com/u/141834038?v=4" width="100;" alt="LyRin-owo"/>
                     <br />
                     <sub><b>lyrin://2025</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/xuanxuan1231">
+                    <img src="https://avatars.githubusercontent.com/u/106209242?v=4" width="100;" alt="xuanxuan1231"/>
+                    <br />
+                    <sub><b>Wenxuan Shen</b></sub>
                 </a>
             </td>
             <td align="center">
