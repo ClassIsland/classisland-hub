@@ -79,6 +79,13 @@
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/littlekan233">
+                    <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
+                    <br />
+                    <sub><b>小阚LittleKan</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/3234374354">
                     <img src="https://avatars.githubusercontent.com/u/112679489?v=4" width="100;" alt="3234374354"/>
                     <br />
@@ -90,13 +97,6 @@
                     <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
                     <br />
                     <sub><b>HelloWRC</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/littlekan233">
-                    <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
-                    <br />
-                    <sub><b>小阚LittleKan</b></sub>
                 </a>
             </td>
             <td align="center">
