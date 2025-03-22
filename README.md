@@ -107,17 +107,17 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/LHGS-github">
-                    <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
-                    <br />
-                    <sub><b>LHGS-github</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/TuanZiGit">
                     <img src="https://avatars.githubusercontent.com/u/46892455?v=4" width="100;" alt="TuanZiGit"/>
                     <br />
                     <sub><b>团子</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/LHGS-github">
+                    <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
+                    <br />
+                    <sub><b>LHGS-github</b></sub>
                 </a>
             </td>
 		</tr>
