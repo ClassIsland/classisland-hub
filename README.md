@@ -123,6 +123,13 @@
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/PULLUP114514">
+                    <img src="https://avatars.githubusercontent.com/u/174981713?v=4" width="100;" alt="PULLUP114514"/>
+                    <br />
+                    <sub><b>BSODWTPC</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/LHGS-github">
                     <img src="https://avatars.githubusercontent.com/u/92249708?v=4" width="100;" alt="LHGS-github"/>
                     <br />
@@ -144,10 +151,10 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/PULLUP114514">
-                    <img src="https://avatars.githubusercontent.com/u/174981713?v=4" width="100;" alt="PULLUP114514"/>
+                <a href="https://github.com/MKStoler1024">
+                    <img src="https://avatars.githubusercontent.com/u/158786854?v=4" width="100;" alt="MKStoler1024"/>
                     <br />
-                    <sub><b>BSODWTPC</b></sub>
+                    <sub><b>MKStoler1024</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -157,6 +164,8 @@
                     <sub><b>Wenxuan Shen</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/quiet-star-gazing">
                     <img src="https://avatars.githubusercontent.com/u/109467643?v=4" width="100;" alt="quiet-star-gazing"/>
@@ -164,8 +173,6 @@
                     <sub><b>quiet-star-gazing</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/DryIce-cc">
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
