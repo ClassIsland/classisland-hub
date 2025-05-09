@@ -100,17 +100,17 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/JerryQAQ-233">
+                    <img src="https://avatars.githubusercontent.com/u/117577244?v=4" width="100;" alt="JerryQAQ-233"/>
+                    <br />
+                    <sub><b>Jerry233</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/3234374354">
                     <img src="https://avatars.githubusercontent.com/u/112679489?v=4" width="100;" alt="3234374354"/>
                     <br />
                     <sub><b>hexianglong</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/wangjinyi425">
-                    <img src="https://avatars.githubusercontent.com/u/117577244?v=4" width="100;" alt="wangjinyi425"/>
-                    <br />
-                    <sub><b>Jerry233</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -178,6 +178,13 @@
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
                     <br />
                     <sub><b>干冰DryIce</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AWDNDWindowsXP">
+                    <img src="https://avatars.githubusercontent.com/u/132193112?v=4" width="100;" alt="AWDNDWindowsXP"/>
+                    <br />
+                    <sub><b>爱玩电脑的WindowsXP</b></sub>
                 </a>
             </td>
 		</tr>
