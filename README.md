@@ -86,6 +86,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/JerryQAQ-233">
+                    <img src="https://avatars.githubusercontent.com/u/117577244?v=4" width="100;" alt="JerryQAQ-233"/>
+                    <br />
+                    <sub><b>Jerry233</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/xiaowuap">
                     <img src="https://avatars.githubusercontent.com/u/44547885?v=4" width="100;" alt="xiaowuap"/>
                     <br />
@@ -97,13 +104,6 @@
                     <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
                     <br />
                     <sub><b>HelloWRC</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/JerryQAQ-233">
-                    <img src="https://avatars.githubusercontent.com/u/117577244?v=4" width="100;" alt="JerryQAQ-233"/>
-                    <br />
-                    <sub><b>Jerry233</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -123,10 +123,24 @@
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/Cartethyia-0612">
+                    <img src="https://avatars.githubusercontent.com/u/209760655?v=4" width="100;" alt="Cartethyia-0612"/>
+                    <br />
+                    <sub><b>Cartethyia-0612</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PULLUP114514">
                     <img src="https://avatars.githubusercontent.com/u/174981713?v=4" width="100;" alt="PULLUP114514"/>
                     <br />
                     <sub><b>BSODWTPC</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/lcp1234">
+                    <img src="https://avatars.githubusercontent.com/u/72485810?v=4" width="100;" alt="lcp1234"/>
+                    <br />
+                    <sub><b>FireflyBoo</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -150,6 +164,8 @@
                     <sub><b>lyrin://2025</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/SHANFENG5302">
                     <img src="https://avatars.githubusercontent.com/u/143256405?v=4" width="100;" alt="SHANFENG5302"/>
@@ -164,8 +180,6 @@
                     <sub><b>MKStoler1024</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/xuanxuan1231">
                     <img src="https://avatars.githubusercontent.com/u/106209242?v=4" width="100;" alt="xuanxuan1231"/>
@@ -194,6 +208,8 @@
                     <sub><b>干冰DryIce</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/AWDNDWindowsXP">
                     <img src="https://avatars.githubusercontent.com/u/132193112?v=4" width="100;" alt="AWDNDWindowsXP"/>
