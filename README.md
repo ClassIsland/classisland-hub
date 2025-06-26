@@ -167,10 +167,10 @@
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/LyRin-owo">
-                    <img src="https://avatars.githubusercontent.com/u/141834038?v=4" width="100;" alt="LyRin-owo"/>
+                <a href="https://github.com/stellalyRin">
+                    <img src="https://avatars.githubusercontent.com/u/141834038?v=4" width="100;" alt="stellalyRin"/>
                     <br />
-                    <sub><b>lyrin://2025</b></sub>
+                    <sub><b>stellalyRin \ 星澜音</b></sub>
                 </a>
             </td>
             <td align="center">
