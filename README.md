@@ -181,6 +181,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/garyxxxx2021">
+                    <img src="https://avatars.githubusercontent.com/u/106256371?v=4" width="100;" alt="garyxxxx2021"/>
+                    <br />
+                    <sub><b>Garyyang</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/MKStoler1024">
                     <img src="https://avatars.githubusercontent.com/u/158786854?v=4" width="100;" alt="MKStoler1024"/>
                     <br />
@@ -201,6 +208,8 @@
                     <sub><b>quiet-star-gazing</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/wjj-8283">
                     <img src="https://avatars.githubusercontent.com/u/82750345?v=4" width="100;" alt="wjj-8283"/>
@@ -208,8 +217,6 @@
                     <sub><b>wjj</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/DryIce-cc">
                     <img src="https://avatars.githubusercontent.com/u/165131008?v=4" width="100;" alt="DryIce-cc"/>
