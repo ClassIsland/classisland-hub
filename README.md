@@ -42,17 +42,17 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/unDefFtr">
-                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="unDefFtr"/>
-                    <br />
-                    <sub><b>unDefFtr</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Cartethyia-0612">
                     <img src="https://avatars.githubusercontent.com/u/209760655?v=4" width="100;" alt="Cartethyia-0612"/>
                     <br />
                     <sub><b>Cartethyia-0612</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/unDefFtr">
+                    <img src="https://avatars.githubusercontent.com/u/83688818?v=4" width="100;" alt="unDefFtr"/>
+                    <br />
+                    <sub><b>unDefFtr</b></sub>
                 </a>
             </td>
             <td align="center">
