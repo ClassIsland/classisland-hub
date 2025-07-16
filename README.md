@@ -137,6 +137,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/nickel-bot">
+                    <img src="https://avatars.githubusercontent.com/u/221085890?v=4" width="100;" alt="nickel-bot"/>
+                    <br />
+                    <sub><b>nickel-bot</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/PULLUP114514">
                     <img src="https://avatars.githubusercontent.com/u/174981713?v=4" width="100;" alt="PULLUP114514"/>
                     <br />
@@ -157,6 +164,8 @@
                     <sub><b>LHGS-github</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/tsxc-github">
                     <img src="https://avatars.githubusercontent.com/u/94750616?v=4" width="100;" alt="tsxc-github"/>
@@ -164,8 +173,6 @@
                     <sub><b>星澜曦光</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/LiuYan-xwx">
                     <img src="https://avatars.githubusercontent.com/u/66517348?v=4" width="100;" alt="LiuYan-xwx"/>
@@ -201,6 +208,8 @@
                     <sub><b>Wenxuan Shen</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/lrsgzs">
                     <img src="https://avatars.githubusercontent.com/u/99574908?v=4" width="100;" alt="lrsgzs"/>
@@ -208,8 +217,6 @@
                     <sub><b>lrs2187</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/quiet-star-gazing">
                     <img src="https://avatars.githubusercontent.com/u/109467643?v=4" width="100;" alt="quiet-star-gazing"/>
