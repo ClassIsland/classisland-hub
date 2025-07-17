@@ -42,6 +42,13 @@
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/nickel-bot">
+                    <img src="https://avatars.githubusercontent.com/u/221085890?v=4" width="100;" alt="nickel-bot"/>
+                    <br />
+                    <sub><b>nickel-bot</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Cartethyia-0612">
                     <img src="https://avatars.githubusercontent.com/u/209760655?v=4" width="100;" alt="Cartethyia-0612"/>
                     <br />
@@ -69,6 +76,8 @@
                     <sub><b>Wei Wu</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/littlekan233">
                     <img src="https://avatars.githubusercontent.com/u/75866787?v=4" width="100;" alt="littlekan233"/>
@@ -76,8 +85,6 @@
                     <sub><b>小阚LittleKan</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/garyxxxx2021">
                     <img src="https://avatars.githubusercontent.com/u/106256371?v=4" width="100;" alt="garyxxxx2021"/>
@@ -113,6 +120,8 @@
                     <sub><b>Enzo Wu</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/HelloWRC">
                     <img src="https://avatars.githubusercontent.com/u/55006226?v=4" width="100;" alt="HelloWRC"/>
@@ -120,8 +129,6 @@
                     <sub><b>HelloWRC</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/3234374354">
                     <img src="https://avatars.githubusercontent.com/u/112679489?v=4" width="100;" alt="3234374354"/>
@@ -134,13 +141,6 @@
                     <img src="https://avatars.githubusercontent.com/u/46892455?v=4" width="100;" alt="TuanZiGit"/>
                     <br />
                     <sub><b>团子</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/nickel-bot">
-                    <img src="https://avatars.githubusercontent.com/u/221085890?v=4" width="100;" alt="nickel-bot"/>
-                    <br />
-                    <sub><b>nickel-bot</b></sub>
                 </a>
             </td>
             <td align="center">
