@@ -42,17 +42,17 @@
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/nickel-bot">
-                    <img src="https://avatars.githubusercontent.com/u/221085890?v=4" width="100;" alt="nickel-bot"/>
-                    <br />
-                    <sub><b>nickel-bot</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Cartethyia-0612">
                     <img src="https://avatars.githubusercontent.com/u/209760655?v=4" width="100;" alt="Cartethyia-0612"/>
                     <br />
                     <sub><b>Cartethyia-0612</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/nickel-bot">
+                    <img src="https://avatars.githubusercontent.com/u/221085890?v=4" width="100;" alt="nickel-bot"/>
+                    <br />
+                    <sub><b>nickel-bot</b></sub>
                 </a>
             </td>
             <td align="center">
