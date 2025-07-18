@@ -211,6 +211,13 @@
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/waraku-chise">
+                    <img src="https://avatars.githubusercontent.com/u/218337059?v=4" width="100;" alt="waraku-chise"/>
+                    <br />
+                    <sub><b>chise-kawaii</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/lrsgzs">
                     <img src="https://avatars.githubusercontent.com/u/99574908?v=4" width="100;" alt="lrsgzs"/>
                     <br />
